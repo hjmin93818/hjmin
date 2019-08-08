@@ -8,10 +8,12 @@
 function btn(){
 	alert("바보");
 }
+
 </script>
 </head>
 <body>
 <h1>테스트</h1>
 <button onclick="btn()">버튼</button>
+<h2>테스트테스트</h2>
 </body>
 </html>
